@@ -1,0 +1,1 @@
+#MAVEN_OPTS="-Dhttp.proxyHost=proxy.huawei.com -Dhttp.proxyPort=8080 -Dhttps.proxyHost=proxy.huawei.com -Dhttps.proxyPort=8080 -Dhttp.proxyUser=username -Dhttp.proxyPassword=password -Dhttps.proxyUser=username -Dhttps.proxyPassword=password"
